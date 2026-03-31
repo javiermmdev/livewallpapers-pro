@@ -6,7 +6,7 @@ This repository contains the video wallpapers used by **LiveWall Pro**, a native
 
 1. Open **LiveWall Pro** on your Mac
 2. Go to the **Explore** tab
-3. The repository `javiermmdev/livewallpapers-pro` is pre-configured
+3. The repository [LiveWallPro](https://github.com/javiermmdev/LiveWallPro) is pre-configured
 4. Click **Fetch** to browse available wallpapers
 5. Download individually or click **Download All**
 
